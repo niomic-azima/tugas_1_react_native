@@ -1,0 +1,4 @@
+#Wed Jul 22 06:11:27 WIB 2020
+base.0=/home/satan/Music/tugas_1_react_native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
